@@ -1,0 +1,55 @@
+Codes IR Aire acondicionado MIDEA, Erosky, y otras grandes superficies.
+
+Swing On y Off:
+Protocol:4
+Address:B24D
+Command:F80729D6
+
+Turbo:
+Protocol:4
+Address:52AD
+Command:BA4550AF
+
+Apagar:
+Protocol:4
+Address:B24D
+Command:F80721DE
+
+Encender Cool: 
+Protocol:4
+Address:B24D
+
+25º Cool:
+Command:FC0302FD
+24ª 
+Command:FD0202FD
+23ª
+Command:F50A02FD
+22ª
+Command:F10E02FD
+
+Encender Heat:
+Protocol:4
+Address:B24D
+
+25º Cool:
+Command:CC3302FD
+24ª 
+Command:CD3202FD
+23ª
+Command:C53A02FD
+22ª
+Command:C13E02FD
+
+Encender Auto:
+Protocol:4
+Address:B24D
+
+25º Auto:
+Command:EC1307F8
+24ª 
+Command:ED1207F8
+23ª
+Command:E51A07F8
+22ª
+Command:E11E07F8
